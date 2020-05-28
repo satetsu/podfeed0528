@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[ラジオまちプロ]]></title>
+		<description><![CDATA[ラジオまちプロ『まちのこえ』は、大分のハイパーローカルな話題をお届けするトークプログラムです。]]></description>
+		<link>https://anchor.fm/studiohogg</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2397599/2397599-1569943992385-9def04c638f26.jpg</url>
+			<title>ラジオまちプロ</title>
+			<link>https://anchor.fm/studiohogg</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Thu, 28 May 2020 14:21:28 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/ee3089c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[studiohogg]]></author>
+		<copyright><![CDATA[studiohogg]]></copyright>
+		<language><![CDATA[ja]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>studiohogg</itunes:author>
+		<itunes:summary>ラジオまちプロ『まちのこえ』は、大分のハイパーローカルな話題をお届けするトークプログラムです。</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>studiohogg</itunes:name>
+			<itunes:email>podcasts44+ee3089c@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="News">
+			<itunes:category text="News Commentary"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2397599/2397599-1569943992385-9def04c638f26.jpg"/>
+		<item>
+			<title><![CDATA[#164『大分県民の日なにそれおいしいの？』:ラジオまちプロ『まちのこえ』]]></title>
+			<description><![CDATA[ラジオまちプロ『まちのこえ』は、大分のハイパーローカルな話題をお届けするトークプログラムです。今回はポッドキャスト版では初の配信です。
+]]></description>
+			<link>https://anchor.fm/studiohogg/episodes/164-e5ntt2</link>
+			<guid isPermaLink="false">24ccfcb5-41ff-2083-a4af-841d71e0dd68</guid>
+			<dc:creator><![CDATA[studiohogg]]></dc:creator>
+			<pubDate>Tue, 01 Oct 2019 15:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/ee3089c/podcast/play/5027170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-20%2F70a863e60992a717a59e59ade349d005.m4a" length="3763823" type="audio/x-m4a"/>
+			<itunes:summary>ラジオまちプロ『まちのこえ』は、大分のハイパーローカルな話題をお届けするトークプログラムです。今回はポッドキャスト版では初の配信です。
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>232</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2397599/2397599-1569943813856-158c102f4127a.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>164</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

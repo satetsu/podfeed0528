@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>OBS Podcast Station &#187; アニマジン</title>
+	<atom:link href="http://www.e-obs.com/podcast/cat/am/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.e-obs.com/podcast</link>
+	<description>OBS 大分放送のポッドキャストステーション! 夕方なしか等を好評配信中！</description>
+	<lastBuildDate>Mon, 25 May 2020 04:46:40 +0000</lastBuildDate>
+	<language>ja</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<copyright>Oita Broadcasting System, Inc. </copyright>
+	<managingEditor>obs_sns_account@e-obs.com (OBS 大分放送 ポッドキャストステーション)</managingEditor>
+	<webMaster>obs_sns_account@e-obs.com (OBS 大分放送 ポッドキャストステーション)</webMaster>
+	<ttl>1440</ttl>
+	<image>
+		<url>http://www.e-obs.com/podcast/wp-content/uploads/feed_logo_144.jpg</url>
+		<title>OBS Podcast Station</title>
+		<link>http://www.e-obs.com/podcast</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+		<item>
+		<title>OBSラジオ「アニマジン」20/5/24 第269回 放送分</title>
+		<link>http://www.e-obs.com/podcast/am/202005/10122.html</link>
+		<comments>http://www.e-obs.com/podcast/am/202005/10122.html#comments</comments>
+		<pubDate>Sun, 24 May 2020 14:15:55 +0000</pubDate>
+		<dc:creator><![CDATA[mediawork]]></dc:creator>
+				<category><![CDATA[アニマジン]]></category>
+
+		<guid isPermaLink="false">http://www.e-obs.com/podcast/?p=10122</guid>
+		<description><![CDATA[<img src="http://www.e-obs.com/podcast/wp-content/themes/obs_podcast/images/icatch.jpg" alt="OBS Podcast Station" title="OBS Podcast Station" />(アニマジン)OBSラジオ「アニマジン」20/5/24 第269回 放送分]]></description>
+		<wfw:commentRss>http://www.e-obs.com/podcast/am/202005/10122.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.e-obs.com/podcast/wp-content/uploads/20200524_obs_animazine_269.mp3" length="8801184" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>OBSラジオ「アニマジン」20/5/17 第268回 放送分</title>
+		<link>http://www.e-obs.com/podcast/am/202005/10119.html</link>
+		<comments>http://www.e-obs.com/podcast/am/202005/10119.html#comments</comments>
+		<pubDate>Sun, 17 May 2020 14:15:04 +0000</pubDate>
+		<dc:creator><![CDATA[mediawork]]></dc:creator>
+				<category><![CDATA[アニマジン]]></category>
+
+		<guid isPermaLink="false">http://www.e-obs.com/podcast/?p=10119</guid>
+		<description><![CDATA[<img src="http://www.e-obs.com/podcast/wp-content/themes/obs_podcast/images/icatch.jpg" alt="OBS Podcast Station" title="OBS Podcast Station" />(アニマジン)OBSラジオ「アニマジン」20/5/17 第268回 放送分]]></description>
+		<wfw:commentRss>http://www.e-obs.com/podcast/am/202005/10119.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.e-obs.com/podcast/wp-content/uploads/20200517_obs_animazine_268.mp3" length="8412768" type="audio/mpeg" />
+	</item>
+	</channel>
+</rss>
